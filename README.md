@@ -1,5 +1,5 @@
 ## Hello there 👋
-<img src='Magnus.png' width=128px height=128px>
+<img src='Leona.png' width=128px height=128px>
 
 My name is Conan Montes and I'm 20. I am a software developer and aspiring game developer who is skilled in C# developing, though I know my way around other languages such as Javascript, Python, Java and Kotlin. 
 
