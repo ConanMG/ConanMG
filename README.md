@@ -1,5 +1,7 @@
 ## Hello there 👋
-![Barbarian](Magnus.png)
+<img src='Magnus.png' width=64px height=64px>
+<br>
+
 My name is Conan Montes and I'm 20. I am a software developer and aspiring game developer who is skilled in C# developing, though I know my way around other languages such as Javascript, Python, Java and Kotlin. 
 
 ### 🔭 What have I done?
