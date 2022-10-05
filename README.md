@@ -1,7 +1,8 @@
 ## Hello there 👋
-<img src='Leona.png' width=128px height=128px>
 
-My name is Conan Montes and I'm 20. I am a software developer and aspiring game developer who is skilled in C# developing, though I know my way around other languages such as Javascript, Python, Java and Kotlin. 
+My name is Conan Montes and I'm 20. I am a software developer and aspiring game developer who is skilled in C# developing, though I know my way around other languages such as Javascript, Python, Java and Kotlin.
+
+<img src='Leona.png' width=128px height=128px>
 
 ### 🔭 What have I done?
 I have worked developing apps for six months. During that period I learned how to manage projects, full stack development and how teamworking works in a corporate enviroment.
