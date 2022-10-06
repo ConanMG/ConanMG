@@ -14,7 +14,7 @@ I would say I'm a driven person who loves to have a goal to pursuit and continue
 
 I'm open to answering all questions and looking forward to continue learning ✨
 
-<img src='Minis.gif' align='center' width=128px height=128px>
+<img src='Lamia.gif' align='center' width=128px height=128px>
 
 <!--
 **ConanMG/ConanMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
