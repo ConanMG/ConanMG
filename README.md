@@ -9,6 +9,8 @@ I finished my programming studies last year and have also finished computer tech
 ### ⚡ As of right now...
 I'm currently studying videogame development and VR in hopes of bettering my artistic skills and moreover, expand my programming horizons.
 
+<img src='Lilith.gif' align='center' width=128px height=128px>
+
 ### 💬 How would you describe yourself?
 I would say I'm a driven person who loves to have a goal to pursuit and continue broadening his horizons.
 
