@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-<p style="float: right"> My name is Conan Montes and I'm 20. I am a software developer and aspiring game developer who is skilled in C# developing, though I know my way around other languages such as Javascript, Python, Java and Kotlin.</p>
+<p style="float: right"> My name is Conan Montes and I'm 20. I am a software developer and aspiring game developer who is skilled in C# programming, though I know my way around other languages such as Javascript, Python, Java and Kotlin.</p>
 
 ### 🔭 What have I done?
 I have worked developing apps for six months. During that period I learned how to manage projects, full stack development and how teamworking works in a corporate enviroment.
@@ -14,7 +14,7 @@ I would say I'm a driven person who loves to have a goal to pursuit and continue
 
 I'm open to answering all questions and looking forward to continue learning ✨
 
-<img src='Minis.gif' align='center' width=128px height=128px>
+<img src='Thief.gif' align='center' width=128px height=128px>
 
 <!--
 **ConanMG/ConanMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
