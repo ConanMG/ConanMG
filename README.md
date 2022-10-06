@@ -1,12 +1,12 @@
-# 👋 HELLO THERE <img src='Minis.gif' align='center' width=64px height=64px>
+# 👋 HELLO THERE <img src='Minis.gif' align='center' width=64px height=64px style='vertical-align: baseline;'>
 
 ***<p style="float: right"> My name is Conan Montes and I'm 20. I am a software developer and aspiring game developer who is skilled in C# programming, though I know my way around other languages such as Javascript, Python, Java and Kotlin.</p>***
 
-### 🏆 What have I done? <img src='Lilith.gif' align='center' width=64px height=64px>
+### 🏆 What have I done? <img src='Lilith.gif' align='center' width=64px height=64px style='vertical-align: baseline;'>
 I have worked developing apps for six months. During that period I learned how to manage projects, full stack development and how teamworking works in a corporate enviroment.
 I finished my programming studies last year and have also finished computer technician studies.
 
-### 👾 As of right now... <img src='Lamia.gif' align='center' width=64px height=64px>
+### 👾 As of right now... <img src='Lamia.gif' align='center' width=64px height=64px style='vertical-align: baseline;'>
 I'm currently studying videogame development and VR in hopes of bettering my artistic skills and moreover, expand my programming horizons.
 
 
