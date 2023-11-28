@@ -2,7 +2,7 @@
 
 ***<p style="float: right"> My name is Conan Montes and I'm 21. I am a software developer and aspiring game developer who is skilled in C# programming, though I know my way around other languages such as Javascript, Dart, Java and Kotlin.</p>***
 
-## 🏆 Achivements <img src='Lilith.gif' width=64px height=64px align='center'>
+## 🏆 Achivements
 I have worked developing apps for six months as a programmer at Bodegas Fundador. During that period I learned how to manage projects, full stack development and how teamworking is in a corporate enviroment. I was hired again later and I am currently working developing VR experiences for the company.
 
 I studied multiplatform apps programming and microinformatic systems and networking. I specialised in videogame development and VR.
