@@ -1,6 +1,6 @@
 # 👋 HELLO THERE
 
-***<p style="float: right"> My name is Conan Montes and I'm 23. I am a software developer and aspiring game developer who is skilled in C# programming, though I know my way around other languages such as Javascript, Dart, Java and Kotlin.</p>***
+***<p style="float: right"> My name is Conan Montes and I'm 24. I am a software developer and aspiring game developer who is skilled in C# programming, though I know my way around other languages such as Javascript, Dart, Java and Kotlin.</p>***
 
 ## 🏆 Achivements
 I have worked developing apps for a year and a half as a fullstack programmer at Bodegas Fundador. During that period I learned how to manage projects, full stack development and how teamworking is in a corporate enviroment.
